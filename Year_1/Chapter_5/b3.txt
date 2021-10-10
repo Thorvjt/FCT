@@ -1,0 +1,10 @@
+theo d?u bài, ta có: 
+def repeat_lyrics():
+    print_lyrics()
+    print_lyrics()
+def print_lyrics():
+    print("I'm a lumberjack, and I'm okay.")
+    print('I sleep all night and I work all day.')
+repeat_lyrics()
+#Code b? l?i vì trong d?nh nghia c?a hàm "repeat_lyrics" có s? d?ng hàm "print_lyrics" mà hàm "print_lyrics" du?c
+d?nh nghia sau nên chuong trình s? báo l?i

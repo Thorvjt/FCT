@@ -1,0 +1,12 @@
+T? d? bài ta có:
+repeat_lyrics()
+
+def print_lyrics():
+    print("I'm a lumberjack, and I'm okay.")
+    print('I sleep all night and I work all day.')
+
+
+def repeat_lyrics():
+    print_lyrics()
+    print_lyrics()
+#Sau khi ch?y, nó ra l?i: name "repeat_lyrics" is not defind (Tên "repeat_lyrics" chua có d?nh nghia)
